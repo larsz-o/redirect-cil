@@ -9,7 +9,7 @@ function App() {
         <p>
          Looking for the <a
           className="App-link"
-          href="https://cil-policy.herokuapp.com/"
+          href="https://chaplaincy-innovation-lessons.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
